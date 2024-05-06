@@ -15,6 +15,10 @@ step4: performing statistical analysis including repeated measure ANOVA (run the
 
 step 4: performing model-based with logistic rule model (run the modelbased_V2 code for figures 6,7 and supplementory 2, 3)
 
+
+Citation:
+Some of the packages and codes are the modified version of the the available code in Zajkowski et al 2017 article
+
 Armin Toghi
 2024
 April
