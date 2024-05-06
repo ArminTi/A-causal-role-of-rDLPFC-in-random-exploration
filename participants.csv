@@ -1,0 +1,26 @@
+participant,age,gender,Field of study,DASS-21-total,GHQ-28,years of education,Handedness,eeg_cap_size,RMT,s1 start time,s2 start time,time between session (Day),s1_cond,s2_cond,adverse_events,Paid after final session
+1,24,Male,architecture,16,,18,right,Medium-Large,60,9AM,11AM,8,vertex,rDLPFC,,150t
+2,27,Female,cognitive rehabilitation,12,,18,right,Medium,60,12PM,12:30PM,5,rDLPFC,vertex,,not accepted
+3,25,Female,cognitive rehabilitation,5,,19,right,Medium,50,2PM,2PM,6,vertex,rDLPFC,,not accepted
+4,24,Male,Data science (no prior knowledge),6,,18,right,Medium-Large,60,10:30AM,10AM,8,rDLPFC,vertex,,150t
+5,31,Male,Philosophy,3,,19,right,Medium-Large,58,2PM,1PM,5,vertex,rDLPFC,,150t
+6,23,Female,cognitive pscyhology,4,,16,right,Medium,49,12PM,1PM,7,rDLPFC,vertex,,150t
+7,23,Male,molecular biology,5,,14,right,Medium,55,12:30PM,12:30PM,10,vertex,rDLPFC,,150t
+8,25,Male,Social psychology,10,,18,right,Medium-Large,47,2PM,2PM,10,rDLPFC,vertex,,not accepted
+9,24,Male,Sports,7,,17,right,Medium-Large,60,3PM,3PM,6,vertex,rDLPFC,,not accepted
+10,25,Male,Mathematics (no prior knowledge),17,,17,right,Medium,50,3PM,3PM,5,rDLPFC,vertex,S1: moderate headache,150t
+11,20,Male,medicine,5,,15,right,Medium,47,9AM,9AM,7,vertex,rDLPFC,,not accepted
+12,22,Female,Computer science (no prior knowledge),10,,14,right,Medium,50,1PM,2PM,5,rDLPFC,vertex,"S1:mild dizziness, and fatigue",not accepted
+13,25,Male,Data science (no prior knowledge),18,,18,right,Medium-Large,58,12:15PM,1PM,5,vertex,rDLPFC,,150t
+14,24,Male,cognitive pscyhology,5,,18,right,Medium-Large,54,12PM,12PM,7,rDLPFC,vertex,"S2:repeat vertex session, (coil were close to m1);",150t
+15,26,Male,Psychology,12,,18,right,Medium-Large,60,2PM,2PM,5,vertex,rDLPFC,,150t
+16,25,Male,Psychology,10,,17,right,Medium-Large,50,2PM,3PM,6,rDLPFC,vertex,,150t
+17,24,Female,Psychology,7,,17,right,Small ,43,9AM,9AM,6,vertex,rDLPFC,,150t
+18,20,Female,Statistics (no prior knowledge),11,,14,right,Medium-Large,53,2PM,2PM,5,rDLPFC,vertex,,150t
+19,24,Male,cognitive rehabilitation,8,,17,right,Medium,48,9AM,9AM,7,vertex,rDLPFC,S2: moderate headache,not accepted
+20,26,Female,linguistic,9,,18,right,Medium,55,12PM,12PM,7,rDLPFC,vertex,,not accepted
+21,23,Female,Psychology,19,,18,right,Medium-Large,60,1PM,1PM,7,vertex,rDLPFC,,150t
+22,18,Male,mathematics (no prior knowledge),4,,12,right,Medium-Large,58,9AM,10AM,7,rDLPFC,vertex,,150t
+23,18,Female,mathematics (no prior knowledge),4,,12,right,Medium,53,12PM,1PM,7,vertex,rDLPFC,,150t
+24,25,Female,Clinical Psychology,1,,18,right,Medium-Large,47,3PM,2PM,7,rDLPFC,vertex,,150t
+25,25,Female,Clinical Psychology,22,,18,right,Large,53,1PM,1:30PM,7,vertex,rDLPFC,,150t
