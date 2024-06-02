@@ -17,11 +17,8 @@ step 5: performing model-based with logistic rule model (run the modelbased_V2 c
 
 Note 1: for participants characteristics you can see : participants.csv file
 
-Note 2: Some of the packages and codes are the modified version of the the available code in Zajkowski et al 2017 article
+Note 2: Some of the packages and codes are the modified version of the the available code in Zajkowski et al 2017 article (properly cited)
 
-Citation:
-Zajkowski, Wojciech; Kossut, Malgorzata; Wilson, Robert, 2017, "A causal role for right frontopolar cortex in directed, but not random, exploration", https://doi.org/10.7910/DVN/CZT6EE
-%%%, Harvard Dataverse, V2, UNF:6:DJXEJvnH9X1WmZfT3L+j7Q== [fileUNF]
 
 Armin Toghi
 2024
