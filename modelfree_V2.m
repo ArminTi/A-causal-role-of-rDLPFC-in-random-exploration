@@ -652,8 +652,8 @@ addABCs(ax, [-0.09 0.07], 32);
 %[~,p] = ttest(squeeze(p_highInfo_64(2,:,1)-p_highInfo_64(2,:,2))')
 %[~,p] = ttest(squeeze(p_highInfo_128(1,:,1)-p_highInfo_128(1,:,2))')
 %[~,p] = ttest(squeeze(p_highInfo_128(2,:,1)-p_highInfo_128(2,:,2))')
-%[~,p] = ttest(squeeze(p_highInfo_overal(1,:,1)-p_highInfo_128(1,:,2))')
-%[~,p] = ttest(squeeze(p_highInfo_overal(2,:,1)-p_highInfo_128(2,:,2))')
+%[~,p] = ttest(squeeze(p_highInfo_overal(1,:,1)-p_highInfo_overal(1,:,2))')
+%[~,p] = ttest(squeeze(p_highInfo_overal(2,:,1)-p_highInfo_overal(2,:,2))')
 
 
 %Random Exploration
@@ -661,8 +661,8 @@ addABCs(ax, [-0.09 0.07], 32);
 [~,p] = ttest(squeeze(p_lowMean_64(2,:,1)-p_lowMean_64(2,:,2))')
 [~,p] = ttest(squeeze(p_lowMean_128(1,:,1)-p_lowMean_128(1,:,2))')
 [~,p] = ttest(squeeze(p_lowMean_128(2,:,1)-p_lowMean_128(2,:,2))')
-[~,p] = ttest(squeeze(p_lowMean_overal(1,:,1)-p_lowMean_128(1,:,2))')
-[~,p] = ttest(squeeze(p_lowMean_overal(2,:,1)-p_lowMean_128(2,:,2))')
+[~,p] = ttest(squeeze(p_lowMean_overal(1,:,1)-p_lowMean_overal(1,:,2))')
+[~,p] = ttest(squeeze(p_lowMean_overal(2,:,1)-p_lowMean_overal(2,:,2))')
 
 %% supplementory material S4: reaction times
 
