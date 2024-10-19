@@ -25,11 +25,7 @@ sub = load_TMS_v1([datadir '/TMSanalysis_192_data.csv']);
 % remove bad subjects
 [sub, sub_bad] = removeBadSubjects_TMS_v1(sub);
 
-% Indices of rows to be removed
-%rowsToRemove = [1,17, 6];
 
-% Remove specified rows from the structure array
-%sub(rowsToRemove) = [];
 
 %% prepare data
 clear a
