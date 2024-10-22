@@ -2,6 +2,7 @@
 
 Project name:
 "A Causal Role of rDLPFC in random exploration"
+Published in Scientific reports: " https://doi.org/10.1038/s41598-024-76025-5 "
 
 felow chart of data-analysis:
 
